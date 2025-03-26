@@ -1,0 +1,16 @@
+{
+  "name": "vidtube-backend",
+  "version": "1.0.0",
+  "description": "A youtube type video watching and uploading project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "Youtube"
+  ],
+  "author": "Aditya Pandey",
+  "license": "ISC"
+}
